@@ -1,0 +1,81 @@
+body {    
+    font-family:'Times New Roman', Times, serif;
+}
+/*ARTICLE*/
+article{
+    margin: auto;
+    width: 1024px;
+}
+/*HEADER*/
+header{
+    background-image: url(/img/pattern.png);
+    background-size:30%;
+    background-color: rgb(89, 155, 231);
+    width: 1200px;
+    height: 80px;
+    display:block;
+    margin:0px auto;
+    text-align:center;
+    
+}
+
+#booleaner{
+    margin-right: 70%;
+    width: 15%;
+    margin-top: 30px;
+    
+}
+
+/*NAV*/
+#big_title{
+    font-size:x-large;
+    line-height: 0;
+}
+
+#writer{
+    color: rgb(177, 177, 177);
+    line-height: 0;
+}
+#name{
+    color: rgb(109, 199, 238);
+}
+#date{
+    font-size:small;
+    color: rgb(177, 177, 177);
+    line-height: 0;
+}
+
+/*MAIN*/
+.text{
+    font-size: 12px;
+    margin-top: -2px;
+    line-height:1ex;
+}
+
+table{
+    text-align: left;
+}
+
+thead{
+    background-color: rgb(26, 170, 230); 
+    color: white;
+    
+}
+.container , .container_end{
+    background-color: rgb(178, 230, 242);
+    line-height: 3;
+}
+.container_one{
+    background-color: white;
+    line-height: 3;
+}
+
+/*FOOTER*/
+.end{
+    color: rgb(177, 177, 177);
+}
+
+.lorem_white{
+    color: white;
+    position: absolute;
+}
